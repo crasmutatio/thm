@@ -1,0 +1,4 @@
+webserver search directory: gobuster
+start python webserver: python3 -m http.server
+updog http server (pip3) - https://github.com/sc0tfree/updog
+

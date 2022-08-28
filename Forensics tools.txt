@@ -1,0 +1,7 @@
+pdfinfo -- get information from pdf file
+exiftool -- get metadata from image file
+
+
+Kali:
+sudo apt install poppler-utils
+sudo apt install libimage-exiftool-perl

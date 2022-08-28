@@ -1,0 +1,12 @@
+lusrmgt.msc -- user manager
+msconfig.exe -- startup while disabling and testing services
+tasktmgr.exe -- manage startup tasks the regular way
+
+cmd.exe
+cls - clear screen 
+ipconfig /? (help)
+netstat
+hostname
+whoami
+net -- networking stuff-- get help via net help <command>
+
